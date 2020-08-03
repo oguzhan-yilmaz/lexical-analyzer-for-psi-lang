@@ -1,0 +1,4 @@
+if ( some_condition ) {
+variable_one:=222;
+counter++; /* increment */
+}
